@@ -1,0 +1,13 @@
+.about{
+    background-image: url('../Images/art.jpg');
+    background-size: cover;
+}
+
+#profileIcons li{
+    display: inline-block;
+    list-style: none;
+}
+
+.card{
+    margin:10px !important;
+}
